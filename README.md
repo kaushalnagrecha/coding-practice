@@ -11,6 +11,8 @@ Solutions to coding practice questions from various coding websites
 #### Contribution Guidelines -
 * `develop` branch is the source of truth branch all new branches/ checkouts/ forks to be made from `develop` branch
 * please create a new branch for each problem and try to match the branch name to the directory name
+* please create a PR once the solution is accepted on the website
+* please delete the branch once the PR is merged
 
 #### Maintainer Info - 
 * Kaushal Nagrecha - [Mail](mailto:kool_nagrechas@yahoo.co.in) | [LinkedIn](https://www.linkedin.com/in/kaushal-nagrecha-672978127/)
